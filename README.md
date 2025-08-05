@@ -1,5 +1,6 @@
 # Controle de Semáforo com Arduino
 
+![](./printProjeto.png)
 ---
 
 ## Sobre
